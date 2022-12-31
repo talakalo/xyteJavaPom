@@ -1,0 +1,21 @@
+	
+1.test cases for createGroupTest:
+
+create with same name 
+Blank/null string/ space/ mutipal space
+Whitespace only
+single quotes name like Jim O'malley
+Very long strings/maximum length 
+Only one character/minimum length
+Unicode characters
+SQL injection(query)
+special characters
+uppercase alphabets
+lowercase alphabets
+mix of upper and lowercase alphabets
+HTML characters
+numbers only
+formatted numbers
+decimal numbers
+symbols
+deffrent languges

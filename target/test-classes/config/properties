@@ -1,0 +1,7 @@
+browser = chrome
+url = https://portal.xyte.io/
+username = tal.akalo@gmail.com
+password = T220782al!!@
+headless = false
+groupName= TalTestGroup25
+groupName2= TalTestGroup1
